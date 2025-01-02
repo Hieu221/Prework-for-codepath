@@ -21,10 +21,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+- Facebook: It is diverse in the types of content. Users are from any ages. It has many attributes.
+- Chrome: The attributes are user-friendly. The interface is neat.
+- Files on iOS: It is easy and fast to retrieve the file from Macbook destop (easier than Onedrive). 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 
 ## License
 
