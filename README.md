@@ -24,6 +24,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Facebook: It is diverse in the types of content. Users are from any ages. It has many attributes.
 - Chrome: The attributes are user-friendly. The interface is neat.
 - Files on iOS: It is easy and fast to retrieve the file from Macbook destop (easier than Onedrive). 
+- Ideal application:
+    + Gif generation tool
+    + Budget monitor application
+    + Planning farm for kid
+    + Kid learning social network
 
 ## Notes
 
