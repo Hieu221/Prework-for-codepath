@@ -15,6 +15,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV4cmpidW5wamtnN2d6aHViMThlemJ5Nzg3enpvaGgzYjQ0YjYxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2td5pVVLPFaNdDlNdN/giphy.gif
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
